@@ -6,7 +6,7 @@ A complete Flutter-based Flight Booking Application with search capabilities, ad
 
 1. **Clone the repository**:
    ```bash
-   git clone <YOUR_GITHUB_REPO_LINK>
+   git clone https://github.com/rncgopalgupta-bit/FlightBookingApp.git
    ```
 2. **Navigate to the directory**:
    ```bash
@@ -41,13 +41,13 @@ A complete Flutter-based Flight Booking Application with search capabilities, ad
 
 ## Approximate Time Taken
 
-- Setup, Architecture, and Base Networking: ~4 hours
-- Complex UI Views (Custom Clippers, Ticket aesthetics): ~5 hours
-- State Management & Advanced Filter Integration: ~4 hours
-- Polish and Refactoring: ~2 hours
-**Total**: ~15 Hours
+- Setup, Architecture, and Base Networking: ~2 hours
+- Complex UI Views (Custom Clippers, Ticket aesthetics): ~3 hours
+- State Management & Advanced Filter Integration: ~1 hours
+- Polish and Refactoring: ~1 hours
+**Total**: ~7 Hours
 
 ## Links
 
-- **GitHub Repository**: [Your GitHub Repo Link Here]
+- **GitHub Repository**: https://github.com/rncgopalgupta-bit/FlightBookingApp.git
 - **APK File**: The APK file is located in `build/app/outputs/flutter-apk/app-release.apk`
